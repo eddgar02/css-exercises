@@ -1,0 +1,7 @@
+/* descendant combinator is done with a single space between the selectors */
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
